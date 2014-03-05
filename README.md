@@ -8,7 +8,7 @@ Maven project for a webapp(WAR) deployable on IJetty.
 ```sh
 $sudo cp maven.sh /etc/profile.d/
 ```
-4. Relogin
+
 
 ###Building instructions:
 
